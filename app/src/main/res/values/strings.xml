@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Email App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="to">To:</string>
+    <string name="hint">Enter Email Address</string>
+    <string name="message">Enter Message</string>
+    <string name="send">Send</string>
+    <string name="action_settings">Settings</string>
+</resources>
